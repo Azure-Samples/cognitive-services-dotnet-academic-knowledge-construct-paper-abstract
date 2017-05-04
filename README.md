@@ -1,7 +1,7 @@
 ---
 services: cognitive-services
 platforms: dotnet
-author: alch
+author: alch-msft
 ---
 # Cognitive services: Get paper abstract using Academic knowledge API
 
